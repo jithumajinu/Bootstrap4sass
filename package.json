@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap4sass",
+  "version": "1.0.1",
+  "description": "Bootstrap 4 Theme Customization (with Sass)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jithumajinu/Bootstrap4sass.git"
+  },
+  "keywords": [
+    "bootstrap4"
+  ],
+  "author": "jithu.majinu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jithumajinu/Bootstrap4sass/issues"
+  },
+  "homepage": "https://github.com/jithumajinu/Bootstrap4sass#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
