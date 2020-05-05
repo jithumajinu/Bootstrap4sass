@@ -11,6 +11,9 @@ $ npm install
 # install sass
 $ sudo gem install sass
 
+OR
+$ npm install -g sass
+
 # compile sass to css 
 $ sass main.scss main.css
 
